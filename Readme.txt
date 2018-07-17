@@ -7,3 +7,5 @@ Updating Readme with new information
 Commited this line through web
 
 Sharing remotely is fun an easy
+
+Feature2

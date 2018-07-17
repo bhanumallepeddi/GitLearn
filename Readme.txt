@@ -7,7 +7,7 @@ Updating Readme with new information
 Commited this line through web
 
 Sharing remotely is fun an easy
-
+Fixing Bug1234
 Feature1
 Feature2
 Feature2 Changes

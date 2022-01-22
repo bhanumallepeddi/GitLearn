@@ -1,5 +1,0 @@
-Fix2
-
-Added Line 1  from master branch
-Added Line2 from master branch
-Added Line 3 in feature 1 branch and patching
